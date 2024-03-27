@@ -103,6 +103,8 @@ body{
 .apresentacao__imagem__sobre{
     width: 35%;
     border-radius: 30px;
+    position: relative;
+    top: -120px;
     
 }
 .rodape{
